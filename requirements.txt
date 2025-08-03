@@ -1,2 +1,7 @@
 gunicorn
+flask
+speechrecognition
+moviepy
+werkzeug
+
 
