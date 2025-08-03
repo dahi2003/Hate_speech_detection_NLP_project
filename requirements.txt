@@ -1,7 +1,11 @@
-gunicorn
 flask
+gunicorn
 speechrecognition
 moviepy==1.0.3
 werkzeug
-
-
+scikit-learn
+pandas
+nltk
+matplotlib
+seaborn
+numpy
