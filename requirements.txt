@@ -1,7 +1,7 @@
 gunicorn
 flask
 speechrecognition
-moviepy
+moviepy==1.0.3
 werkzeug
 
 
