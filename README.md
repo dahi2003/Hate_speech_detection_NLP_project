@@ -34,9 +34,3 @@ The application supports three input methods:
 - pandas, nltk, numpy
 - matplotlib, seaborn
 
-## 🚀 Installation
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/dahi2003/Hate_speech_detection_NLP_project.git
-cd Hate_speech_detection_NLP_project
