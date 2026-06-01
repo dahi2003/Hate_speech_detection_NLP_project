@@ -34,3 +34,5 @@ The application supports three input methods:
 - pandas, nltk, numpy
 - matplotlib, seaborn
 
+## project url:
+https://hate-speech-detection-nlp-project.onrender.com
